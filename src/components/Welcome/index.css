@@ -13,6 +13,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+      text-align: center;
   }
   .heading {
     color: #f0bb03;
